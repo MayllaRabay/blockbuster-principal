@@ -267,12 +267,12 @@ h1 {
 .carrinho-rodape input:hover, .carrinho-rodape input:focus {
     border: 2px solid #E183C8;
 }
-h2, h4 {
+h2, h4, h5 {
     text-align: center;
 }
-h2, h4, .carrinho-rodape form label {
+h2, h4, h5, .carrinho-rodape form label {
     color: #FDFDFD;
 }
-h4 {
+h4, h5 {
     padding: 0.5em;
 }
